@@ -1,0 +1,31 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+
+    <string-array name="operators_array">
+        <item>Bangladesh Power Development Board</item>
+        <item>Northwest Power Generation Company Limited</item>
+    </string-array>
+    <string-array name="ownership_array">
+        <item>State-owned Power Plant</item>
+        <item>Public Power Plants</item>
+        <item>Null</item>
+    </string-array>
+    <string-array name="fuel_types_array">
+        <item>Gas</item>
+        <item>Coal</item>
+        <item>Solar</item>
+    </string-array>
+    <string-array name="methods_array">
+        <item>Combustion</item>
+        <item>Combustion2</item>
+    </string-array>
+</resources>
